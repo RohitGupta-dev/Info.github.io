@@ -962,7 +962,7 @@ section {
   #hero {
     width: 100%;
     height: 86.5vh;
-    background: url(../img/rhit.jpg) top center;
+    background: url(../img/bkg.jpg) top center;
     background-size: cover;
 }
  #hero:before {
